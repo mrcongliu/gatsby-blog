@@ -5,3 +5,19 @@
  */
 
 // You can delete this file if you're not using it
+
+/* Any new field you add goes into the fields property. */
+const { createFilePath } = require(`gatsby-source-filesystem`)
+
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
+  if (node.internal.type === `MarkdownRemark`) {
+    const slug = createFilePath({ node, getNode })
+
+    createNodeField({
+      node,
+      name: `slug`,
+      value: slug,
+    })
+  }
+}
