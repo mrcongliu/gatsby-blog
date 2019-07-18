@@ -4,7 +4,6 @@ import { graphql, Link } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
 const BlogLink = styled(Link)`
@@ -17,9 +16,9 @@ const BlogTitle = styled.h3`
 
 export default ({ data }) => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Web News" />
     <div>
-      <h1>CongLiu's Thoughts</h1>
+      <h1>Web News</h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
@@ -46,7 +45,6 @@ export const query = graphql`
           frontmatter {
             title
             date
-            description
           }
           fields {
             slug

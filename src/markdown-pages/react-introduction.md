@@ -1,6 +1,7 @@
 ---
 title: 'React Introduction'
 date: '2019-07-15'
+description: 'ZTM React Course'
 ---
 
 This essay was inspired by a course on Udemy: [Complete React Developer in 2019](https://www.udemy.com/complete-react-developer-zero-to-mastery/)
