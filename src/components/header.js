@@ -13,6 +13,8 @@ const Header = () => (
         margin: `0 auto`,
         maxWidth: 960,
         padding: `0.5rem 1.0875rem`,
+        display: `flex`,
+        justifyContent: `space-between`,
       }}
     >
       <span style={{ margin: `0 0.5rem` }}>
@@ -26,7 +28,7 @@ const Header = () => (
           Home
         </Link>
       </span>
-      <span style={{ margin: `0 10rem` }}>
+      <span style={{ margin: `0 0.5rem` }}>
         <Link
           to="/projects"
           style={{
