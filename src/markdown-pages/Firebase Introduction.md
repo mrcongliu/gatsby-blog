@@ -4,8 +4,6 @@ date: '2019-07-17'
 description: 'ZTM React Course'
 ---
 
-# Firebase Introduction
-
 > Before we start to learn Firebase, we must remember that no developers should keep all the knowledge of it inside their brains. All we need to have is the ability to read the documentations online and follow the steps. 
 
 Useful links:
