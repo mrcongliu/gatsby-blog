@@ -4,7 +4,7 @@ date: '2019-10-25'
 description: 'Psychology'
 ---
 
-###### *7 Underlying Truths a Psychologist Wants You to Know About a Narcissist And the Best Way to Deal With Them*
+#### *——7 Underlying Truths a Psychologist Wants You to Know About a Narcissist And the Best Way to Deal With Them*
 
 This essay was inspired by an essay on: [ideapod.com](https://ideapod.com/7-underlying-truths-psychologist-wants-know-narcissist-can-deal/)
 
