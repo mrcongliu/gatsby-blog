@@ -41,9 +41,7 @@ Enjoy, and let's take the leap
 
 
 
-# 1. What's NOT going to change in the
-next 10 years?
-
+# 1. What's NOT going to change in the next 10 years?
 Build a strategy around the things that are stable in time. As a
 programmer, you will always have to solve problems. You will always
 have to e"ectively communicate with others, and you will always have
