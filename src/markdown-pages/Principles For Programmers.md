@@ -44,7 +44,7 @@ Enjoy, and let's take the leap
 # 1. What's NOT going to change in the next 10 years?
 Build a strategy around the things that are stable in time. As a
 programmer, you will always have to solve problems. You will always
-have to e"ectively communicate with others, and you will always have
+have to effectively communicate with others, and you will always have
 to continue to learn and upgrade your skills. Focus a big chunk of your
 energy on skills that are virtually guaranteed to be valuable in the
 future, no matter what.
@@ -104,7 +104,7 @@ That's how you gain experience.
 # 5. Don't follow the money, Follow the brains
 
 Great pay and salary today is good. But if you want to succeed long
-term, you are better o" taking a lower pay to be surrounded by smart
+term, you are better off taking a lower pay to be surrounded by smart
 people and being in a situation that allows you to learn from others. If
 you can get both, that is even better, but always have this as a priority
 when picking between options: Which option will allow me to learn and
@@ -121,3 +121,4 @@ grow the most and be surrounded by people smarter than me?
 > may not be reproduced or used in any manner whatsoever
 > without the express written permission of the publisher
 > except for the use of brief quotations in a book review.
+
