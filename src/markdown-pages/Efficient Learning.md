@@ -1,6 +1,6 @@
 ---
 title: 'Efficient Learning'
-date: '2020-2-27'
+date: '2020-02-27'
 description: 'IT'
 ---
 
