@@ -51,6 +51,7 @@ const Header = () => (
         </Link>
       </span>
     </div>
+  <script data-ad-client="ca-pub-8373735223145970" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </header>
 )
 
