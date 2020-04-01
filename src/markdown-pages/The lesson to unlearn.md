@@ -1,6 +1,6 @@
 ---
 title: 'The lesson to unlearn 不知学为何物'
-date: '2020-3-2'
+date: '2020-03-02'
 description: 'essay'
 ---
 
