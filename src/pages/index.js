@@ -18,7 +18,7 @@ export default ({ data }) => (
   <Layout>
     <SEO title="聪聪的碎碎念" />
     <div>
-      <h1>Web News</h1>
+      <h1>聪聪的碎碎念</h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
