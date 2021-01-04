@@ -1,25 +1,25 @@
 ---
-title: 'Efficient Learning'
+title: '高效学习法'
 date: '2020-02-27'
 description: 'IT'
 ---
 
 
 
-## Feynman Technique
+## 费曼的学习方法
 
-Feynman is a physicist who owns a theory that if someone really understands a topic, he should be able to explain it to a kid who has zero knowledge in this field.
+物理学家费曼曾说过：“如果你真的理解某个知识点，你应当能给一个五岁的小孩讲明白。”
 
-If you can't explain a topic very well, you need to go home and sit down to look after the things you are missing.
+如果你讲不明白，那你该意识到了你欠缺的地方，回头用功补上。
 
-So every time you want to learn something, try to pretend to teach it to a kid.
+因此，每当你学习新知识的时候，尝试着在脑海里把它讲给一个五岁的孩童。
 
 
 
-## Trunk Based Knowledge
+## 学习不是线性的，而是反复的过程。
 
-When you want to learn something, you may want to learn one first, then another. But that's not a very smart way of learning.
+你学知识的时候，总是先看第一章，第二章，…… 但这种学法可真不明智。
 
-Andrei recommends that when you want to learn a thing, you always need to start from the basic. For example, if you want to learn to play the violin, you should understand the chores. Otherwise, your learning process will be very miserable.
+我们来分析一下，当你学知识时，你应当先打基础。比如，学小提琴，就要先学读乐谱。否则，你会学的很痛苦。
 
-Therefore, anytime you want to learn something, start from the root, and then learn the leaves. Because the leaves will change, but the root will always stay, or lasts as long as possible.
+因此，正确的学习方法应该是在脑海里把这门学科所有的知识点想象成一颗树。基础知识是树根，主干知识点在树干上，越是细节的部分越靠近树梢，可以把最细节的例子想象成叶子。因为换季时，叶子会掉，而树根不会变。
