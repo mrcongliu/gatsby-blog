@@ -1,5 +1,5 @@
 ---
-title: 'The lesson to unlearn'
+title: '学校教会了我们什么'
 date: '2020-03-02'
 description: 'essay'
 ---
