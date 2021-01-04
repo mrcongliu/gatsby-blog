@@ -16,9 +16,9 @@ const BlogTitle = styled.h3`
 
 export default ({ data }) => (
   <Layout>
-    <SEO title="聪聪的碎碎念" />
+    <SEO title="刘聪的博客" />
     <div>
-      <h1>聪聪的碎碎念</h1>
+      <h1>刘聪的博客</h1>
       <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
