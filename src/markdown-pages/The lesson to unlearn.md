@@ -1,5 +1,5 @@
 ---
-title: '学校教会了我们什么'
+title: '学校教会了我们什么【译】'
 date: '2020-03-02'
 description: 'essay'
 ---
