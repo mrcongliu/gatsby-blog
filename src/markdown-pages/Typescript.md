@@ -1,5 +1,5 @@
 ---
-title: 'Typescript The Complete Developer's Guide'
+title: "Typescript The Complete Developer's Guide"
 date: '2021-02-19'
 description: 'course'
 ---
